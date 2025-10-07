@@ -1,15 +1,15 @@
 # Content and description of the files
 
-**The file "distributions_of_actions.xlsx"** shows:
+**The file "distributions_of_actions.xlsx"** shows:<br>
     1. the list of unique type of actions with codes<br>
     2. the list of unique type of actions clean<br>
     3. the distribution of the cases (total number of cases for each type of action)<br>
     4. the distribution of the cases (percentage in regard to the total number of cases)<br>
     5. chart illustrating the distribution. <br>
-The numbers in this file are extracted by the script <br>**https://github.com/javierosorio/ViPAA_LLM_dev/tree/main/2_data_clean/scripts/actions_unique_n_distribution.ipynb**<br>
+The numbers in this file are extracted by the script **https://github.com/javierosorio/ViPAA_LLM_dev/tree/main/2_data_clean/scripts/actions_unique_n_distribution.ipynb**<br>
 
 The file "**_locations_unique.xlsx**” contains:<br>
-    1. a list of unique places (department & municipality) where the events take place and their frequency in the dataset and
+    1. a list of unique places (department & municipality) where the events take place and their frequency in the dataset and<br>
     2. a list of unique departmens and their frequency.<br> 
 **Notes**<br>
     -> "/" means no information about the location present in the original dataset.<br>
