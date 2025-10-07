@@ -18,3 +18,5 @@ The file "**_locations_unique.xlsx**” contains:
     -> In the column of unique departments of Colombia there are 32 departmens of Colombia, Apure in Venezuela and Bogotá, D.C. as special administrative territory (34 in total)
 The numbers in this file are extracted by the script 
 **https://github.com/javierosorio/ViPAA_LLM_dev/tree/main/2_data_clean/scripts/extract_places_unique_n_frequency.ipynb**
+
+**dataset_for_training.xlsx** is the version of the dataset that is processed by the script **"3_model/train.ipynb"**
